@@ -1,0 +1,10 @@
+.cabecalhoPrincipal-titulo{
+    display: inline-block; /*Elements placed side by side*/
+    vertical-align: middle;/*Centered side by side*/
+}
+.cabecalhoPrincipal-nav{
+    display: inline-block;/*Elements placed side by side*/
+    vertical-align: middle;/*Centered side by side*/
+    margin-left: 600px; 
+}
+/*Alternative ways to adjust a header*/
