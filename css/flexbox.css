@@ -45,3 +45,13 @@
 .conteudoPrincipal-cursos-link:nth-child(4n+1){
     margin-left: 0;
 }
+/* parte mobile  */
+
+.cabecalhoPrincipal-nav{
+    flex-direction: column;
+}
+.cabecalhoPrincipal .contaier{
+    display: flex;
+    align-items: initial;
+    text-align: center;  
+}
