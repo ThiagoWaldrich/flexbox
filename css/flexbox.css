@@ -45,6 +45,14 @@
 .conteudoPrincipal-cursos-link:nth-child(4n+1){
     margin-left: 0;
 }
+.videoSobre .container{
+    display:flex;
+}
+.videoSobre-sobre{
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+} 
 /* parte mobile  */
 
 @media(max-width: 775px){
@@ -75,5 +83,8 @@
 }
 .rodapePrincipal-contatoForm-fieldset{
     justify-content: center;
+}
+.cabecalhoPrincipal-nav-link-app{
+    order:-1;
 }
 }

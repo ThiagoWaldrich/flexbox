@@ -246,7 +246,9 @@ body {
 		margin-top: 0;
 		text-align: left;
 	}
-
+	.rodapePrincipal-contatoForm-fieldset{
+		justify-content:center;
+	}
 	.conteudoPrincipal-cursos-link:nth-child(3n) {
 		margin-right: 0;
 	}
